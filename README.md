@@ -1,6 +1,11 @@
+
 # BurnRate — Real-Time Meeting Cost Audit
 
 A React + TypeScript web app for estimating the labor cost of meetings from attendee counts and hourly rates.
+
+## Live Demo
+
+[Try BurnRate](https://burnrate-cyan.vercel.app)
 
 ## Features
 - Live cost timer with pause, resume, and reset
