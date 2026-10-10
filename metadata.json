@@ -1,0 +1,6 @@
+{
+  "name": "BurnRate: Real-Time Meeting Cost Audit",
+  "description": "Ultra-clean fintech meeting cost auditor tracking burn rate per millisecond, opportunity costs, live telemetry charts, and Slack post-mortem receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
